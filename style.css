@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: rgba(230, 83, 83, 0.511);
+  height: 40px;
+}
