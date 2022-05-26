@@ -16,7 +16,7 @@ $login = getUserLogin();
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="src/style/style.css">
-    <title>Main</title>
+    <title>Contacts</title>
 </head>
 
 <body>
@@ -50,29 +50,7 @@ $login = getUserLogin();
     </header>
     <div class="main">
         <section>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Magni cupiditate commodi velit suscipit perspiciatis nulla ipsum
-                provident nobis. Laborum sapiente voluptas in numquam tempora esse?
-                Sunt laborum doloremque provident rem?</p>
-            <div>
-                <h4>Slider</h4>
-                <div class="slider">
-                    <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80');">
-                    </div>
-                    <div class="slide" style="
-          background-image: url('https://images.unsplash.com/photo-1573950940509-d924ee3fd345?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1696&q=80');
-        ">
-                    </div>
-                    <div class="slide" style="
-          background-image: url('https://images.unsplash.com/photo-1535732820275-9ffd998cac22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80');
-        ">
-                    </div>
-                    <div class="slide" style="
-          background-image: url('https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80');
-        ">
-                    </div>
-                </div>
-            </div>
+          <h3>Contacts</h3>
         </section>
     </div>
 </body>
